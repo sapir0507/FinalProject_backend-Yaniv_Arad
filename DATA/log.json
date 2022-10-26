@@ -1,0 +1,1 @@
+[{"id": "1", "date": "20/10/2022", "maxActions": 5, "actionAllowed": 4, "action": "add employee to shift"}, {"id": "1", "date": "20/10/2022", "maxActions": 5, "actionAllowed": 3, "action": "navigate back to departments, aka cancle"}]
